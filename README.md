@@ -3,7 +3,8 @@
 My personal solutions to LeetCode problems in Python/C++/Java.
 
 ## Easy
-- [Two Sum][]
+- [1. Two Sum](<Easy/Array/1. Two Sum>)
+- [26. Remove Duplicate from Sorted Array](<Easy/Array/26. Remove Duplicates from Sorted Array>)
 
 ## Medium
 ...
@@ -11,5 +12,3 @@ My personal solutions to LeetCode problems in Python/C++/Java.
 ## Hard
 ...
 
-
-[two-sum.java]: easy/two-sum.java
