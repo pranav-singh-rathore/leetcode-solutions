@@ -9,6 +9,7 @@ My personal solutions to LeetCode problems in Python/C++/Java.
 - [35. Search Insert Postion](<Easy/Array/35. Search Insert Position.java>)
 - [66. Plus One](<Easy/Array/66. Plus One.java>)
 - [88. Merge Sorted Array](</Easy/Array/88. Merge Sorted Array.java>)
+- [118. Pascal's Triangle](</Easy/Array/118. Pascal's Triangle.java>)
 ## Medium
 ...
 
